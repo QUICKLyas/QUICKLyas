@@ -12,7 +12,7 @@
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ...
 <br/><br/>
 
-<a href="#"><img width='100%' src="images.jpg" alt="Hey, my name is Oleksandr Makovoz!" /></a>
+<a href="#"><img width='100%' src="images.jpg" alt="Hello, my name is Niclas Kato!" /></a>
 <br />
 ## Program Languages and Tools
 <p align="center">
@@ -52,7 +52,6 @@
 
 
 ## Contact Info
-<p> Telegram: https://t.me/bonanzalek </p>
-<!-- <p> Skype: https://join.skype.com/invite/KdvF7ZkTbpet </p> -->
-<p> Skype: https://join.skype.com/invite/wtxECTma9w4I </p>
+<p> Telegram: https://t.me/niclaskato </p>
+<p> Skype: https://join.skype.com/invite/vTAWVEFTuvU0 </p>
 <p> Discord: https://discord.gg/prSeNjQG </p>

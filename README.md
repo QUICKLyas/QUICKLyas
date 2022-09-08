@@ -54,4 +54,4 @@
 ## Contact Info
 <p> Telegram: https://t.me/niclaskato </p>
 <p> Skype: https://join.skype.com/invite/vTAWVEFTuvU0 </p>
-<p> Discord: https://discord.gg/prSeNjQG </p>
+<p> Discord: https://discord.gg/prSeNjQG](https://discord.gg/NrM2WtbPPd </p>

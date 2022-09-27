@@ -55,7 +55,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
 </p>
 
-## Contact With Me <a target="_blank"><img src="source/Handshake.gif" height="32px" style="max-width:100%;">
+## Contact with Me <a target="_blank"><img src="source/Handshake.gif" height="32px" style="max-width:100%;">
 
 <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/">  
  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin" style="height: 30px; width: 30px;">

@@ -94,7 +94,8 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord) -->
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord" alt="trophy-niclas" height="180px"/>
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord" alt="trophy-niclas" height="200px"/> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&no-bg=true" alt="trophy-niclas" height="200px"/>
 </p>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=niclaskato&theme=react-dark)

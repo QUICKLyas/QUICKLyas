@@ -1,11 +1,13 @@
-<meta name="awesome-portfolio"/>
+<meta name="reaact-developer-portfolio"/>
 <meta name="react"/>
 <meta name="next"/>
 <meta name="vue" />
-<meta name="solana" />
-<meta name="Blockchain" />
+<meta name="front-end" />
+<meta name="back-end" />
 <meta name="full-stack"/>
-# Hello. 
+<h1 align="center">
+    <em>Hey</em> <img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Nicholas.</em>
+</h1>
 
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
 

@@ -13,8 +13,6 @@
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
 <!-- 
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ... -->
-<br/><br/>
-
 <a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a>
 <br />
 
@@ -54,6 +52,8 @@
     <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
 </p>
+
+<br />
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 

@@ -17,7 +17,14 @@
 ## 🛠️ My Favorite Programming Languages
 
 > Front-End Development
+- HTML/CSS3
+- JavaScript
+- TypeScript
+
 > Back-End Development
+- NodeJS
+- PHP
+- Python
 
 ## My🌟BEST🌟 SKILLS
 

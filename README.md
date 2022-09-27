@@ -83,6 +83,12 @@
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
 </a>
+<a align="right" href="https://github.com/niclaskato?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xdev7"/>
+</a>
+<a align="right" href="https://github.com/niclaskato?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xdev7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
 
 ## Stats 📊
 
@@ -90,12 +96,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true" alt="used-langs-niclas" height="180px"/>
 </p>
-<!-- ![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true)
-<br> -->
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord) -->
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&no-bg=true&column=7&theme=discord&margin-w=15" alt="trophy-niclas" height="200px"/>
 </p>

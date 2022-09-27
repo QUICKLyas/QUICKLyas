@@ -19,7 +19,7 @@
 ## My🌟BEST🌟 SKILLS:
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs-github-profile-awesome-beautiful" width="40" height="40"/>

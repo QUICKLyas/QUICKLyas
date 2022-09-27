@@ -10,6 +10,8 @@
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
+<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
 <!-- 
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ... -->
@@ -52,8 +54,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
-
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 

@@ -6,12 +6,13 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="center">
-    <em>Hey</em> <img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Nicholas.</em>
+    <em>Hello</em> <img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Nicholas.</em>
+    <em>🚀 Full-Stack Developer</em>
 </h1>
 
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
-
-🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ...
+<!-- 
+🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ... -->
 <br/><br/>
 
 <a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a>

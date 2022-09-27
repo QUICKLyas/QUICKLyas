@@ -16,7 +16,10 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-## My🌟BEST🌟 SKILLS:
+> Front-End Development
+> Back-End Development
+
+## My🌟BEST🌟 SKILLS
 
 <p align="center">
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>

@@ -70,3 +70,9 @@
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
 </a>
+
+## Stats 📊
+
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
+<br />
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true)

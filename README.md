@@ -94,7 +94,6 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord) -->
 <p align="left">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord" alt="trophy-niclas" height="200px"/> -->
     <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&no-bg=true&column=7&theme=discord&margin-w=15" alt="trophy-niclas" height="200px"/>
 </p>
 

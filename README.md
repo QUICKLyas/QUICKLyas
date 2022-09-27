@@ -6,8 +6,8 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="center">
-    <em>Hello</em> <img src="source/Hi.gif" height="37px" width="30px">, <em>I'm Nicholas.</em>
-    <em>🚀 Full-Stack Developer</em>
+    <em>Hello</em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Nicholas </em>
+    <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
@@ -17,7 +17,8 @@
 
 <a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a>
 <br />
-## Program Languages and Tools
+
+## My🌟BEST🌟 SKILLS:
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/>

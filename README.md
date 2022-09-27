@@ -6,13 +6,14 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Nicholas </em>
+    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Nicholas </em>
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 
 --------
+<br><br>
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 

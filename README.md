@@ -58,7 +58,7 @@
 ## Contact With Me <a target="_blank"><img src="source/Handshake.gif" height="32px" style="max-width:100%;">
 
 <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/">  
- <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin" style="vertical-align:top; margin:6px 4px; height: 10px; width: 10px;">
+ <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin" style="height: 30px; width: 30px;">
 </a>
 <p> Telegram: https://t.me/niclaskato </p>
 <p> Skype: https://join.skype.com/invite/weRQ1pwK17jc </p>

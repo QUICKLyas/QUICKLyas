@@ -77,11 +77,12 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true)
 <br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord)
- 
+<p align="center">
+    ![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord)
+</p>
+
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=niclaskato&theme=react-dark)
-   
+
 <p align="center">   
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true"/>
 </p>

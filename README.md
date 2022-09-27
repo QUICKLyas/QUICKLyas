@@ -16,12 +16,10 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-> Front-End Development
+> Take a Look... 😁
 - HTML/CSS3
 - JavaScript
 - TypeScript
-
-> Back-End Development
 - NodeJS
 - PHP
 - Python

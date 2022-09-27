@@ -10,7 +10,7 @@
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Always%20learning%20new%20tech&font=Pacifico&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Always%20learning%20new%20tech&font=Pacifico&width=800&height=120&color=58a6ff&vCenter=true&size=45%22">
 
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 

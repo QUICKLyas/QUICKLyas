@@ -53,6 +53,8 @@
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
 
+<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 
 <a href="mailto:niclas.kato92@gmail.com" target="_blank">  
@@ -70,8 +72,6 @@
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
 </a>
-
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
 ## Stats 📊
 

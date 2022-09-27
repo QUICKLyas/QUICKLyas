@@ -13,7 +13,7 @@
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
 <!-- 
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ... -->
-<a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a>
+<!-- <a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a> -->
 <br />
 
 ## My🌟BEST🌟 SKILLS:
@@ -70,6 +70,8 @@
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
 </a>
+
+<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
 ## Stats 📊
 

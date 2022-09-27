@@ -55,8 +55,11 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
 </p>
 
+## Contact With Me <a target="_blank"><img src="source/Handshake.gif" height="32px" style="max-width:100%;">
 
-## Contact Info
+<a href="https://www.linkedin.com/in/nicholas-kato-27b830250/">  
+ <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
 <p> Telegram: https://t.me/niclaskato </p>
 <p> Skype: https://join.skype.com/invite/weRQ1pwK17jc </p>
 <p> Discord: https://discord.gg/prSeNjQG](https://discord.gg/NrM2WtbPPd </p>

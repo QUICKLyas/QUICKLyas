@@ -58,8 +58,14 @@
 ## Contact with Me <a target="_blank"><img src="source/Handshake.gif" height="32px" style="max-width:100%;">
 
 <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/">  
- <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin" style="height: 30px; width: 30px;">
+ <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="height: 35px; width: 35px;">
 </a>
-<p> Telegram: https://t.me/niclaskato </p>
-<p> Skype: https://join.skype.com/invite/weRQ1pwK17jc </p>
-<p> Discord: https://discord.gg/prSeNjQG](https://discord.gg/NrM2WtbPPd </p>
+<a href="https://t.me/niclaskato/">  
+ <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">
+</a>
+<a href="https://join.skype.com/invite/weRQ1pwK17jc/">  
+ <img src="https://cdn-icons-png.flaticon.com/512/2504/2504937.png" alt="skype" style="height: 35px; width: 35px;">
+</a>
+<a href="https://discord.gg/NrM2WtbPPd/">  
+ <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
+</a>

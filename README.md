@@ -16,7 +16,7 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-> Take a Look... 😁
+> Front-End | Back-End Development
 - HTML/CSS3
 - JavaScript
 - TypeScript

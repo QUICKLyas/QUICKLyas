@@ -57,20 +57,18 @@
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 
-<p align="center">
-    <a href="mailto:niclas.kato92@gmail.com" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="height: 35px; width: 35px;">
-    </a>
-    <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="height: 35px; width: 35px;">
-    </a>
-    <a href="https://t.me/niclaskato/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">
-    </a>
-    <a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504937.png" alt="skype" style="height: 35px; width: 35px;">
-    </a>
-    <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
-    </a>
-</p>
+<a href="mailto:niclas.kato92@gmail.com" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="height: 35px; width: 35px;">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</a>
+<a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="height: 35px; width: 35px;">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</a>
+<a href="https://t.me/niclaskato/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</a>
+<a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504937.png" alt="skype" style="height: 35px; width: 35px;">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</a>
+<a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
+</a>

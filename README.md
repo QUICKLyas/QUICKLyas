@@ -86,7 +86,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true" alt="used-langs-niclas" height="180px"/>
 </p>
-<br>
 <!-- ![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true)
@@ -98,7 +97,7 @@
 </p>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=niclaskato&theme=react-dark)
-   
+
 <p align="center">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true"/>
 </p>

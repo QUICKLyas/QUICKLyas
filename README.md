@@ -10,15 +10,14 @@
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
+## :smile: Web Development is a part of my life and :book: Keep coding forever.
+
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
-## :smile: Web Development is a part of my life and :book: Keep coding forever.
-<!-- 
-🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ... -->
-<!-- <a href="#"><img width='100%' src="./source/back-new.gif" alt="Hello, my name is Niclas Kato!" /></a> -->
-<br />
+## 🛠️ My Favorite Programming Languages
 
 ## My🌟BEST🌟 SKILLS:
+
 <p align="center">
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/>

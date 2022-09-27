@@ -10,6 +10,8 @@
     <em> 🚀 Full-Stack Developer! </em>
 </h1>
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20Developer;10%2B%20years%20of%20developing%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 
 --------

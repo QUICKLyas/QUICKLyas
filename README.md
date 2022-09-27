@@ -13,10 +13,10 @@
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 
 --------
-<br>
+
+## 🛠️ My Favorite Programming Languages
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
-## 🛠️ My Favorite Programming Languages
 
 > Front-End | Back-End Development
 - HTML/CSS3

@@ -12,7 +12,7 @@
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ...
 <br/><br/>
 
-<a href="#"><img width='100%' height='80%' src="./source/back.gif" alt="Hello, my name is Niclas Kato!" /></a>
+<a href="#"><img height='80%' src="./source/back.gif" alt="Hello, my name is Niclas Kato!" /></a>
 <br />
 ## Program Languages and Tools
 <p align="center">

@@ -77,7 +77,6 @@
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 
-<br>
 <a href="mailto:niclas.kato92@gmail.com" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/3031/3031693.png" alt="gmail" width="100">
 </a>&ensp;&ensp;

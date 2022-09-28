@@ -77,23 +77,21 @@
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 
-<p align="left">
-    <a href="mailto:niclas.kato92@gmail.com" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="height: 35px; width: 35px;">
-    </a>&ensp;&ensp;
-    <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="height: 35px; width: 35px;">
-    </a>&ensp;&ensp;
-    <a href="https://t.me/niclaskato/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">
-    </a>&ensp;&ensp;
-    <a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="300">
-    </a>&ensp;&ensp;
-    <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
-    </a>
-</p>
+<a href="mailto:niclas.kato92@gmail.com" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" width="300">
+</a>&ensp;&ensp;
+<a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="300">
+</a>&ensp;&ensp;
+<a href="https://t.me/niclaskato/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" width="300">
+</a>&ensp;&ensp;
+<a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="300">
+</a>&ensp;&ensp;
+<a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" width="300">
+</a>
 
 <p align="left">
     <a href="https://github.com/niclaskato?tab=repositories&sort=stargazers">

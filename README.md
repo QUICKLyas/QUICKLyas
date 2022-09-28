@@ -58,7 +58,7 @@
             <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="100"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
@@ -70,6 +70,7 @@
             <td><img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
         </tr>
     </table>
 </p>

@@ -21,12 +21,12 @@
 ## 🛠️ My Favorite Programming Languages
 
 > Front-End | Back-End Development
-- HTML/CSS3
+- HTML5/CSS3
 - JavaScript
 - TypeScript
 - NodeJS
-- PHP
 - Python
+- PHP
 
 <br>
 
@@ -88,7 +88,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">
     </a>&ensp;&ensp;
     <a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
-        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504937.png" alt="skype" style="height: 35px; width: 35px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="300">
     </a>&ensp;&ensp;
     <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
         <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">

@@ -49,32 +49,26 @@
             <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="100"/></td>
-            <!-- <td><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td> -->
         </tr>
         <tr>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
-            <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
+            <td><td><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="100"/></td></td>
+            <td><td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;"/></td></td>
+            <td><td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td></td>
+            <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
         </tr>
     </table>
 </p>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>

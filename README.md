@@ -62,16 +62,16 @@
             <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
         </tr>
+        <tr>
+            <td><img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/></td>
+        </tr>
     </table>
-</p>
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
 
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />

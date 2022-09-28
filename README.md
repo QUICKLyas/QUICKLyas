@@ -90,7 +90,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="100">
 </a>&ensp;&ensp;
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="discord" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="discord" width="100">
 </a>
 
 <p align="left">

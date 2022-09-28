@@ -78,19 +78,19 @@
 ## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
 
 <a href="mailto:niclas.kato92@gmail.com" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/3031/3031693.png" alt="gmail" width="100">
 </a>&ensp;&ensp;
 <a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="linkedin" width="100">
 </a>&ensp;&ensp;
 <a href="https://t.me/niclaskato/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="telegram" width="100">
 </a>&ensp;&ensp;
 <a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="100">
 </a>&ensp;&ensp;
 <a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="discord" width="100">
 </a>
 
 <p align="left">

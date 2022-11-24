@@ -74,25 +74,6 @@
         </tr>
     </table>
 </p>
-
-## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
-
-<a href="mailto:niclas.kato92@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/3031/3031693.png" alt="gmail" width="80">
-</a>&ensp;&ensp;
-<a href="https://www.linkedin.com/in/nicholas-kato-27b830250/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" alt="linkedin" width="80">
-</a>&ensp;&ensp;
-<a href="https://t.me/niclaskato/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="telegram" width="80">
-</a>&ensp;&ensp;
-<a href="https://join.skype.com/invite/weRQ1pwK17jc/">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670246.png" alt="skype" width="80">
-</a>&ensp;&ensp;
-<a href="https://discord.gg/pyV8MFabZM/">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="discord" width="80">
-</a>
-<br>
 <br>
 <br>
 <p align="left">

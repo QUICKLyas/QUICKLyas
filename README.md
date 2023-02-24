@@ -6,8 +6,8 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Nicholas </em>
-    <em> 🚀 Full-Stack Developer! </em>
+    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Tohsaka888 </em>
+    <em> 🚀 Frontend Developer! </em>
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
@@ -25,8 +25,6 @@
 - JavaScript
 - TypeScript
 - NodeJS
-- Python
-- PHP
 
 <br>
 
@@ -87,8 +85,8 @@
 <!-- ## My GitHub Stats 📊
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true" alt="used-langs-niclas" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tohsaka888&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohsaka888&layout=compact&theme=highcontrast&hide_border=true" alt="used-langs-niclas" height="180px"/>
 </p>
 
 <p align="left">

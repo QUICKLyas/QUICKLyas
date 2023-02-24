@@ -10,7 +10,7 @@
     <em> 🚀 Frontend Developer! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 
@@ -37,48 +37,48 @@
             <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs-github-profile-awesome-beautiful" width="100"/></td>
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs-github-profile-awesome-beautiful" width="100"/></td> -->
             <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
+            <!-- <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td> -->
             <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td> -->
             <td><img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="100"/></td>
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql-github-profile-awesome-beautiful" width="100"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="100"/></td> -->
+            <td><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="100"/></td>
         </tr>
         <tr>
-            <td><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100"/></td>
+            <!-- <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100"/></td> -->
             <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="100"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
             <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-        </tr>
-        <tr>
             <td><img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
         </tr>
+        <!-- <tr> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td> -->
+            <!-- <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td> -->
+        <!-- </tr> -->
     </table>
 </p>
 <br>
 <p align="left">
-    <a href="https://github.com/niclaskato?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/niclaskato"/>
+    <a href="https://github.com/tohsaka888?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tohsaka888"/>
     </a>
-    <a href="https://github.com/niclaskato?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/niclaskato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/tohsaka888?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tohsaka888?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
 </p>
 
@@ -90,11 +90,11 @@
 </p>
 
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&no-bg=true&column=7&theme=discord&margin-w=15" alt="trophy-niclas" height="200px"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=tohsaka888&no-bg=true&column=7&theme=discord&margin-w=15" alt="trophy-niclas" height="200px"/>
 </p> -->
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=niclaskato&theme=react-dark)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tohsaka888&theme=react-dark)
 
 <p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tohsaka888&theme=highcontrast&hide_border=true"/>
 </p>

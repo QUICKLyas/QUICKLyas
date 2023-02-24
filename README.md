@@ -1,10 +1,8 @@
-<meta name="reaact-developer-portfolio"/>
+<meta name="react-developer-portfolio"/>
 <meta name="react"/>
 <meta name="next"/>
 <meta name="vue" />
 <meta name="front-end" />
-<meta name="back-end" />
-<meta name="full-stack"/>
 <h1 align="left">
     <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Tohsaka888 </em>
     <em> 🚀 Frontend Developer! </em>
@@ -20,7 +18,7 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-> Front-End | Back-End Development
+> Front-End Development
 - HTML5/CSS3
 - JavaScript
 - TypeScript

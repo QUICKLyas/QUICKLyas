@@ -25,6 +25,11 @@
 - Eureka
 - Python
 
+> DataBase
+
+- MySql
+- MongoDB
+
 <br>
 
 ## 💫 My🌟BEST🌟 SKILLS

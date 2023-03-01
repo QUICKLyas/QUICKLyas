@@ -4,13 +4,13 @@
 <meta name="vue" />
 <meta name="front-end" />
 <h1 align="left">
-    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Tohsaka888 </em>
-    <em> 🚀 Frontend Developer! </em>
+    <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm QUICKLyas </em>
+    <em> 🚀 Backend Developer! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java%2020Back-end%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
-### :smile: Web Development is a part of my life and :book: Keep coding forever.
+<!-- ### :smile: Web Development is a part of my life and :book: Keep coding forever. -->
 
 ---
 
@@ -20,14 +20,11 @@
 
 > Back-End Development
 
-- Centos
-- Eureka
-- Docker
-- ES
-- Kibana
+- JAVA
 - Spring-Boot
 - Spring-Cloud
--
+- Python
+- Docker
 
 <br>
 

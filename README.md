@@ -22,7 +22,7 @@
 
 - JAVA
 - Spring-Boot
-- Spring-Cloud
+- Eureka
 - Python
 
 <br>
